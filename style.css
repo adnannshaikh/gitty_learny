@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(39, 130, 209);
+}
+
+h1,h3{
+
+    background-color: grey;
+    color: black;
+}
+
+
+p{
+
+    background-color: black;
+    color: yellow;
+}
